@@ -1,4 +1,4 @@
-#Conceitos Teóricos sobre Regressão Linear
+# Conceitos Teóricos sobre Regressão Linear
 
 
  Neste espaço, você encontrará informações detalhadas e explicações teóricas relacionadas à regressão linear, um dos conceitos fundamentais na análise estatística e de aprendizado de máquina.
